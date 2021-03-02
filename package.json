@@ -13,5 +13,12 @@
         "vineet",
         "ranjan",
         "darkpanda08"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "darkpanda08/vineetranjan",
+    "author": {
+        "name": "Vineet Ranjan",
+        "url": "https://thedarkpanda.tech"
+    }
 }
