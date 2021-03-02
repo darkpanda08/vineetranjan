@@ -1,0 +1,7 @@
+{
+    "name": "vineet",
+    "version": "1.0.0",
+    "bin": {
+        "vineet": "index.js"
+    }
+}
