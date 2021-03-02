@@ -1,7 +1,7 @@
 {
-    "name": "vineet",
+    "name": "vineetranjan",
     "version": "1.0.0",
     "bin": {
-        "vineet": "index.js"
+        "vineetranjan": "index.js"
     }
 }
